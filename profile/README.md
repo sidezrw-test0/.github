@@ -11,4 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 
-To get started visit repository [repo-name].
+*sidezrw-test0* is blah blah blah...
+
+To get started, visit *sidezrw-test0* [home Wiki](https://github.com/sidezrw-test0/frontend/wiki) and our top repository [frontend](https://github.com/sidezrw-test0/frontend).
